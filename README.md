@@ -1,4 +1,4 @@
-This is my hobby project, the Macropad 44 (MP44). It features two rotary encoders, per-key RGB lighting, and underglow lighting that I use for layer identification. The device is powered by the RP2040 microcontroller, with 256KB of SRAM. The files and code are based on Vial firmware, allowing you to clone the Vial repository to create the necessary Vial .uf2 file for the Macropad. The PCB was manufactured by JLCPCB in China, while the plates are made from stainless steel with injected plastic.
+This is my hobby project, the Macropad 44 (MP44). It includes two rotary encoders, per-key RGB lighting, and underglow lighting, which I use for layer identification. The device runs on the RP2040 microcontroller, with 256KB of SRAM. The files and code are based on Vial firmware, allowing you to clone the Vial repository to generate the necessary Vial .uf2 file for the Macropad. The PCB was manufactured by JLCPCB in China, and the plates are made from either stainless steel with injected plastic or acrylic plates cut by laser.
 
 ![thumbnail_IMG_6716](https://github.com/user-attachments/assets/da26414c-b161-47b4-8911-7d0db79847ae)
 
